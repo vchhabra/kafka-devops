@@ -7,5 +7,5 @@ spec:
     spec:
       containers:
       - name: orders-service
-        image: cnfldemos/orders-service:sha-0ccce99 # 10.0.8
+        image: cnfldemos/orders-service:sha-0ccce99 # v10.0.8
 
